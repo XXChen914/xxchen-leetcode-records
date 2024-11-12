@@ -11,6 +11,9 @@ Leetcode problem records
 ## Two Pointers
 ### Sorting -> Monotonic
 - [x] [1471. The k Strongest Values in an Array](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/description/) **M**
+## Greedy
+- [x] [2195. Append K Integers With Minimal Sum](https://leetcode.cn/problems/append-k-integers-with-minimal-sum/description/)  **M**
+- [x] [1539. Kth Missing Positive Number](https://leetcode.cn/problems/kth-missing-positive-number/description/) **#2195: Greedy #BinarySearch**
 ## Math
 ### Quick Exponentiation
 - [x] [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/description/)
