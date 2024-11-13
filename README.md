@@ -3,13 +3,14 @@ Leetcode problem records
 
 ## Dynamic Porgramming
  - [x] [70. Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/submissions/580396457/)  **E**
- - [ ] [198. House Robber](https://leetcode.cn/problems/house-robber/)  **M**
+ - [x] [198. House Robber](https://leetcode.cn/problems/house-robber/)  **M**
+ - [x] [213. House Robber II](https://leetcode.cn/problems/house-robber-ii/)
  - [x] [2320. Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/description/) **#198**
 
 ## Sliding Window
 ### Fixed Size
 - [x] [643. Maximum Average Subarray I](https://leetcode.cn/problems/maximum-average-subarray-i/description/) **E**
-- [x] [1100. Find K-Length Substrings With No Repeated Characters]() **M**
+- [x] [1100. Find K-Length Substrings With No Repeated Characters](https://leetcode.cn/problems/find-k-length-substrings-with-no-repeated-characters/description/) **M**
 - [x] [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) **M**
 - [x] [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) **#1100**
 - [x] [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/description/) **#2461**
