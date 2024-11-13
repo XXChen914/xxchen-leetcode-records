@@ -4,7 +4,8 @@ Leetcode problem records
 ## Dynamic Porgramming
  - [x] [70. Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/submissions/580396457/)  **E**
  - [x] [198. House Robber](https://leetcode.cn/problems/house-robber/)  **M**
- - [x] [213. House Robber II](https://leetcode.cn/problems/house-robber-ii/)
+ - [x] [213. House Robber II](https://leetcode.cn/problems/house-robber-ii/) **M**
+ - [X] [337. House Robber III]() **M**
  - [x] [2320. Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/description/) **#198**
 
 ## Sliding Window
