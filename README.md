@@ -1,6 +1,9 @@
 # xxchen-leetcode-records
 Leetcode problem records
 
+## Dynamic Porgramming
+ - [x] [2320. Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/description/) **#198**
+
 ## Sliding Window
 ### Fixed Size
 - [x] [643. Maximum Average Subarray I](https://leetcode.cn/problems/maximum-average-subarray-i/description/) **E**
@@ -14,6 +17,10 @@ Leetcode problem records
 ## Greedy
 - [x] [2195. Append K Integers With Minimal Sum](https://leetcode.cn/problems/append-k-integers-with-minimal-sum/description/)  **M**
 - [x] [1539. Kth Missing Positive Number](https://leetcode.cn/problems/kth-missing-positive-number/description/) **#2195: Greedy #BinarySearch**
+## Binary Search
+### Max Possible
+- [x] [1891. Cutting Ribbons](https://leetcode.cn/problems/cutting-ribbons/description/) **M**
+
 ## Math
 ### Quick Exponentiation
-- [x] [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/description/)
+- [x] [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/description/)  **M**
