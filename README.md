@@ -7,6 +7,17 @@ Leetcode problem records
  - [x] [213. House Robber II](https://leetcode.cn/problems/house-robber-ii/) **M**
  - [X] [337. House Robber III]() **M**
  - [x] [2320. Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/description/) **#198**
+ - [ ] 
+ ## Binary Tree
+ ### Simple Recursion
+ - [x] [226. Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/description/) **E**
+ - [x] [814. Binary Tree Pruning](https://leetcode.cn/problems/binary-tree-pruning/description/) **M**
+
+### 2 DFS/BFS
+ - [x] [655. Print Binary Tree](https://leetcode.cn/problems/print-binary-tree/description/) **M**
+ - [ ] d
+### DP on Tree
+ - [x] [124. Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/)  *H*
 
 ## Sliding Window
 ### Fixed Size
