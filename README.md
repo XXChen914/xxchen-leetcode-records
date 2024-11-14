@@ -7,7 +7,7 @@ Leetcode problem records
  - [x] [213. House Robber II](https://leetcode.cn/problems/house-robber-ii/) *M*
  - [X] [337. House Robber III]() *M*
  - [x] [2320. Count Number of Ways to Place Houses](https://leetcode.cn/problems/count-number-of-ways-to-place-houses/description/) *#198*
- - [X] 
+ - [x] foo
  ## Binary Tree
  ### Simple Recursion (Postorder)
  - [x] [226. Invert Binary Tree](https://leetcode.cn/problems/invert-binary-tree/description/) *E*
@@ -16,7 +16,7 @@ Leetcode problem records
 
 ### 2 DFS/BFS
  - [x] [655. Print Binary Tree](https://leetcode.cn/problems/print-binary-tree/description/) *M*
- - [X] 
+ - [X] foo
 ### DP on Tree
  - [x] [124. Binary Tree Maximum Path Sum](https://leetcode.cn/problems/binary-tree-maximum-path-sum/description/)  *H*
 
