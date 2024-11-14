@@ -27,6 +27,25 @@ Leetcode problem records
 - [x] [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.cn/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/description/) *M*
 - [x] [2461. Maximum Sum of Distinct Subarrays With Length K](https://leetcode.cn/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/) *#1100*
 - [x] [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.cn/problems/maximum-sum-of-almost-unique-subarray/description/) *#2461*
+### Resizable Window
+> **Template**
+> ```python
+> def slidingWindow(s: str):
+>    # Use structure to record data you need, like map for counting, sum
+>    window = Counter()
+>    left = 0
+>    for right, c in enumerate(s):
+>        # Process the current window
+>        window[c] += 1
+>        # If meet some condition and we need to shrink the window
+>        while left < right and "window needs shrink":
+>            d = s[left]
+>            window[d] -= 1
+>            if window[d] == 0:
+>                del window[d]
+>            # Shrink the window and update relevant data
+>            left += 1
+> ```
 ## Two Pointers
 ### Sorting -> Monotonic
 - [x] [1471. The k Strongest Values in an Array](https://leetcode.cn/problems/the-k-strongest-values-in-an-array/description/) *M*
