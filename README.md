@@ -59,3 +59,8 @@ Leetcode problem records
 ## Math
 ### Quick Exponentiation
 - [x] [50. Pow(x, n)](https://leetcode.cn/problems/powx-n/description/)  *M*
+
+## Simulation / Follow the Instruction
+- [x] [3239. Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.cn/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/?envType=daily-question&envId=2024-11-15) *M*
+## Very Simple
+- [x][2236. Root Equals Sum of Children](https://leetcode.cn/problems/root-equals-sum-of-children/description/)  *E*
